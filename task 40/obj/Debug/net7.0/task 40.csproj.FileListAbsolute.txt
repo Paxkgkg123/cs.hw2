@@ -1,0 +1,15 @@
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\bin\Debug\net7.0\task 40.exe
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\bin\Debug\net7.0\task 40.deps.json
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\bin\Debug\net7.0\task 40.runtimeconfig.json
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\bin\Debug\net7.0\task 40.dll
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\bin\Debug\net7.0\task 40.pdb
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\task 40.csproj.AssemblyReference.cache
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\task 40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\task 40.AssemblyInfoInputs.cache
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\task 40.AssemblyInfo.cs
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\task 40.csproj.CoreCompileInputs.cache
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\task 40.dll
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\refint\task 40.dll
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\task 40.pdb
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\task 40.genruntimeconfig.cache
+C:\Users\Valdis\OneDrive - ДВФУ\Рабочий стол\куср Введение в программирование от GeekBrains\c#\prac 2\task 40\obj\Debug\net7.0\ref\task 40.dll

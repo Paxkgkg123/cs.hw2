@@ -1,42 +1,26 @@
-﻿Random rng = new Random();
+﻿/*
+Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+    645 -> 5
+    78 -> третьей цифры нет
+*/
 
-int number = rng.Next(0, 100);
-int result = number;
-
-while (result >= 1000) {
-    result = result / 10;
+int InputNumberWithMessage(string message)
+{
+    Console.Write(message);
+    int number = int.Parse(Console.ReadLine());
+    
+    return number;
 }
 
-if (result >= 100) {
-    result %= 10;
-} else {
-    result = -1;
+int SearchDigit(int number, int digitOfNumber)
+{    
+    int digit = -1;
+    for (int r = number; r >= Math.Pow(10, digitOfNumber - 1); r /= 10)
+        digit = r % 10;
+    
+    return digit;
 }
 
-if (result != -1) {
-    Console.WriteLine($"{number} - {result}");
-} else {
-    Console.WriteLine($"{number} - 3-й цифры нет");    
-}
-
-
-//for (int i = 0; i < 30; i++) {
-//    int number = rng.Next(0, 100000);
-//    int result = number;
-
-//    while (result >= 1000) {
-//        result = result / 10;
-//    }
-
-//    if (result >= 100) {
-//        result %= 10;
-//    } else {
-//        result = -1;
-//    }
-
-//    if (result != -1) {
-//        Console.WriteLine($"{number} - {result}");
-//    } else {
-//        Console.WriteLine($"{number} - 3-й цифры нет");    
-//    }
-//}
+int number = InputNumberWithMessage("Input number: ");
+int digit = SearchDigit(number, 1);
+Console.WriteLine(digit); 
